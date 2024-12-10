@@ -10,8 +10,8 @@
 
 **RavGit's features:-**
 
-**Initialization of the Repository**: Establish a fresh version control repository.
-**Staging**: Prepare files for the future commit.
-**Commit**: Take a moment to document the present status of the project.
-**Log**: See the commit history.
-**Diff**: Examine the changes made to the file between its parent and the most recent commit.
+* **Initialization of the Repository**: Establish a fresh version control repository.
+* **Staging**: Prepare files for the future commit.
+* **Commit**: Take a moment to document the present status of the project.
+* **Log**: See the commit history.
+* **Diff**: Examine the changes made to the file between its parent and the most recent commit.
